@@ -1,2 +1,2 @@
 # PiFinder
-finds pi
+procedurally finds pi
